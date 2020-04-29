@@ -1,0 +1,12 @@
+F:\CouponManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\CouponManagementDBEntity.deps.json
+F:\CouponManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\CouponManagementDBEntity.dll
+F:\CouponManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\CouponManagementDBEntity.csprojAssemblyReference.cache
+F:\CouponManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\CouponManagementDBEntity.AssemblyInfoInputs.cache
+F:\CouponManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\CouponManagementDBEntity.AssemblyInfo.cs
+F:\CouponManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\CouponManagementDBEntity.runtimeconfig.json
+F:\CouponManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\CouponManagementDBEntity.runtimeconfig.dev.json
+F:\CouponManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\CouponManagementDBEntity.pdb
+F:\CouponManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\CouponManagementDBEntity.csproj.CoreCompileInputs.cache
+F:\CouponManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\CouponManagementDBEntity.dll
+F:\CouponManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\CouponManagementDBEntity.pdb
+F:\CouponManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\CouponManagementDBEntity.genruntimeconfig.cache
